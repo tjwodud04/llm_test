@@ -1,9 +1,9 @@
 
 ## Dataset Source
-> **TourAPI 4.0** : https://api.visitkorea.or.kr/#/
+> **TourAPI 4.0** [[LINK]](https://api.visitkorea.or.kr/#/)
 
 ## Base Model Source
-> **Llama 3** : https://huggingface.co/meta-llama/Meta-Llama-3-8B
+> **Llama 3** [[LINK]](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 
 ## Applied Techniques
 > **DAPT** (Domain Adaptive Pretraining) [[PAPER]](https://aclanthology.org/2020.acl-main.740/)  
